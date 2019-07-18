@@ -5,8 +5,4 @@ A simple approach of apple bright control screen developed in swift.
 ------------
 > Build into your iPhone to get the full experience (screen brightness control). 
 
-------------
-
-![Alt text](https://media.giphy.com/media/j6YqFJttK2BSV4GVLg/giphy.gif)
------------
 
